@@ -6,6 +6,7 @@ import json
 from datetime import datetime
 from ImageProcess import Graphics
 
+
 # 定义压缩比，数值越大，压缩越小
 SIZE_normal = 1.0
 SIZE_small = 1.5
